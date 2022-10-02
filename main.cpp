@@ -1,8 +1,9 @@
 #include <iostream>
+using std::string; using std::cout; using std::endl; using std::cin;
 
 int main() // main
 {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << tendl;
     
 
     return 0; 
